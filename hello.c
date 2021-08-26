@@ -1,8 +1,8 @@
 /**
- * Author: Sarah Lowderman
+ * Author: Sarah Lowderman, Jack Neville
  * Date: 2021/08/26
  *
- * A C program that outputs my name and major.
+ * A C program that outputs our names and majors.
  */
 
  #include <stdlib.h>
