@@ -1,10 +1,10 @@
 /**
  * Author: Sarah Lowderman
  * Date: 2021/08/26
- * 
+ *
  * A C program that outputs my name and major.
  */
- 
+
  #include <stdlib.h>
  #include <stdio.h>
 
@@ -12,6 +12,9 @@
 
      printf("Hello, I'm Sarah Lowderman!\n");
      printf("Computer Science\n");
+
+     printf("!Jack Neville\n");
+     printf("computer science\n");
 
      return 0;
  }
